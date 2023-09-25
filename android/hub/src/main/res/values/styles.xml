@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HubTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:dialogTheme">@style/HubTheme.Dialog.FullScreen</item>
+    </style>
+
+    <style name="HubTheme.Dialog.FullScreen" parent="Theme.MaterialComponents.Dialog">
+        <item name="android:windowMinWidthMinor">100%</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+    </style>
+</resources>
