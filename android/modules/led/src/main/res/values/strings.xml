@@ -1,0 +1,15 @@
+<resources>
+    <string name="title_new_setup">NEW SETUP</string>
+    <string name="title_new_section">NEW SECTION</string>
+    <string name="title_edit_color">EDIT COLOR</string>
+    <string name="title_edit_color_range">EDIT COLOR RANGE</string>
+    <string name="title_pick_color">PICK A COLOR</string>
+
+    <string name="textfield_name">NAME</string>
+    <string name="textfield_id">ID</string>
+    <string name="textfield_led_count">LED COUNT</string>
+
+    <string name="button_create">CREATE</string>
+    <string name="button_on">ON</string>
+    <string name="button_off">OFF</string>
+</resources>
